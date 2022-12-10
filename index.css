@@ -17,7 +17,9 @@ h1 {
 body {
   background-color: #DCFEE0; 
 }
-
+h3{
+  color:orange;
+}
 #Html {
     background-color: #729928;
     color:#F9660C;
@@ -53,5 +55,6 @@ p{
 
  h7{
         font-size:20px;
+        color: #CDD58F;
 
  }
