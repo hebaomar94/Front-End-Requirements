@@ -1,0 +1,57 @@
+h2,h3,h4,h5,h6,h7{
+
+   font-family: "Helvetica", sans-serif;
+   color: blue;
+}
+
+
+h1 {
+  color: yellow;
+  background-image: url("https://res.cloudinary.com/practicaldev/image/fetch/s--a67XH0QN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png");
+  font-size: 88px;
+  text-align: center;
+   border-radius: 20px;
+   text-shadow: 1px 1px #ff0000;
+}
+
+body {
+  background-color: #DCFEE0; 
+}
+
+#Html {
+    background-color: #729928;
+    color:#F9660C;
+}
+
+h4 {
+  font-size:30px;
+}
+#css {
+      background-color: #8BAB4F;
+    color: #001BFF;
+    
+}
+
+h6 {
+  font-size:30px;
+}
+
+#java {
+  background-color: #BFDF9E;
+  color: #E4FF00;
+}
+
+p{
+  font-size:20px;
+}
+
+ 
+ h5{
+     font-size:20px;
+
+ }
+
+ h7{
+        font-size:20px;
+
+ }
